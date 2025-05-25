@@ -2,5 +2,7 @@ git clone
 git add 
 git status
 git commit
-git push origin
+git push origing
 git pull origin
+]]]]]]]]]]]]]]]]]]]]]
+ppppppppppppppppppppp
